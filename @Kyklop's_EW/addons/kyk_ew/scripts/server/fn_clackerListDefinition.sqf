@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+=======
+/*
+	Author: KyklopCZ
+	
+	Description:
+	Creates a default clacker configuration
+
+	Parameter(s):
+	None
+
+	Returns:
+	Nothing
+*/
+
+>>>>>>> development
 if(isServer) then
 {
 	kyk_ew_clackers = [
