@@ -15,7 +15,7 @@ params ["_classname"];
 */
 
 params [
-	["_classname", "", ""]
+	["_classname", "", [""]]
 	];
 >>>>>>> development
 
